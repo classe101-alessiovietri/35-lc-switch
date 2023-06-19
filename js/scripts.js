@@ -24,15 +24,15 @@ else {
 
 switch (userNumber) {
 
-    case 1:         // if (userNumber == 1)
+    case 1:         // if (userNumber === 1)
         console.log('SWITCH', 'Sei primo');
         break;
 
-    case 2:         // else if (userNumber == 2)
+    case 2:         // else if (userNumber === 2)
         console.log('SWITCH', 'Sei secondo');
         break;
 
-    case 3:         // else if (userNumber == 3)
+    case 3:         // else if (userNumber === 3)
         console.log('SWITCH', 'Sei terzo');
         break;
 
